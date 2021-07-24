@@ -1,4 +1,4 @@
-export const InitialState = {
+export const initialState = {
   avatar: '',
   favorites: [],
   appointments: [],
