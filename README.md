@@ -1,6 +1,6 @@
 # First experience with react native, don't expect too much ;)
 
-- I followed a tutorial and tried to separate the experience with the versions and commits, so if you want see the progress, it's more easy like that. On this experience I followed a tutorial, step by step like he did, just to know how react native is. The link of the tutorial is [here](###Link).
+- I followed a tutorial and tried to separate the experience with the versions and commits, so if you want see the progress, it's more easy like that. On this experience I followed a tutorial, step by step like he did, just to know how react native is. The link of the tutorial is [here](https://github.com/datsfilipe/react-native-barber-app#link).
 
 ### v.0.0.1
 
